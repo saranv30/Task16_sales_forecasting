@@ -1,0 +1,6 @@
+Forecasting Report
+=================
+Model: Exponential Smoothing
+MAE: 3979.847271439079
+MAPE: 0.30640972528222143
+Observations: The model captures seasonality and trend. Forecast reliability depends on data quality.
